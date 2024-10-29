@@ -1,6 +1,9 @@
 # form-CadEcommerce-
  Projeto criado como parte avaliativa da disciplina de Fundamentos de desenvolvimento ministrada pelo professor Leonardo Rocha.
 
+Atenção!  Este projeto foi feito com base nos projetos anteriores :
+[Formulario de contato] https://github.com/saabrinna/form-contato;
+[Formulario de login] https://github.com/saabrinna/projeto-logiinn.
 
 ## Índice
  
@@ -19,7 +22,6 @@ O projeto consiste em criarmos um "site", simulando uma tela de cadastro para re
 (Site e-commerce). Nesse projeto é possivel clicar nos botoes e até mesmo preencher todos os campos em branco..
  
 #### Tabela
- 
  
 Segue a imagem da primeira parte do codigo que consiste no inicio do site onde tem que inserir seu nome, telefone, e-mail, cpf e criar uma senha e avançar:
  
@@ -54,6 +56,9 @@ Segue a imagem da estilizaçao do projeto, consiste nas cor e tamanho do nosso c
 * HTML5
  
 * CSS3
+
+
+
  
 ## Referências
  
